@@ -1,0 +1,17 @@
+# Downloaded market data (fetched by data/download_data.py, not redistributed)
+data/*.csv
+data/*.zip
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors / OS
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
