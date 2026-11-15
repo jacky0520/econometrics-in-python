@@ -91,3 +91,9 @@ Figures are saved to `figures/`.
 ## Tools
 
 Python · pandas · NumPy · statsmodels · SciPy · matplotlib
+
+## Acknowledgements
+
+The analyses in scripts 01–03 follow computer exercises from J. M. Wooldridge,
+*Introductory Econometrics: A Modern Approach*, which were assigned as
+practice in the course.
